@@ -18,8 +18,9 @@ Hint: Puedes utilizar el validador de la w3c para verificar el resultado
 [https://validator.w3.org/#validate\_by\_input
 ](https://validator.w3.org/#validate_by_input)
 
-~~~html
-<p> <span> hola </p> </span>
+<p> <span> hola </p> </span> 
+
+
 ~~~
 
 ##Ejercicio 2:
